@@ -1,0 +1,19 @@
+{
+  "name": "skeletor-sass-helpers",
+  "version": "0.1.0",
+  "description": "Bunch of sass helper classes for Skeletor",
+  "main": "skeletor-sass-helpers.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delphic-digital/skeletor-sass-helpers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delphic-digital/skeletor-sass-helpers/issues"
+  },
+  "homepage": "https://github.com/delphic-digital/skeletor-sass-helpers#readme"
+}
